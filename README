@@ -1,0 +1,14 @@
+This is Nebulo
+
+Nebulo is the Esperanto word for fog, a low-landing cloud.
+
+I thought that GNOME needed some fancy tool to access and manage storage on S3.
+
+It builds upon libs3.
+
+https://github.com/bji/libs3
+
+
+My Fedora packages are here:
+
+https://build.opensuse.org/package/show/home:nnieto/libs3
